@@ -1,0 +1,78 @@
+
+/* Class = "UITextField"; placeholder = "请输入姓名"; ObjectID = "05o-Qy-609"; */
+"05o-Qy-609.placeholder" = "请输入姓名";
+
+/* Class = "UIBarButtonItem"; title = "编辑"; ObjectID = "2hZ-7K-QQi"; */
+"2hZ-7K-QQi.title" = "编辑";
+
+/* Class = "UILabel"; text = "电话："; ObjectID = "5xj-9D-Uiw"; */
+"5xj-9D-Uiw.text" = "电话：";
+
+/* Class = "UILabel"; text = "姓名："; ObjectID = "5xm-gF-vj2"; */
+"5xm-gF-vj2.text" = "姓名：";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "7mG-Ue-2eq"; */
+"7mG-Ue-2eq.text" = "Detail";
+
+/* Class = "UIButton"; normalTitle = "添加"; ObjectID = "8er-LU-G2S"; */
+"8er-LU-G2S.normalTitle" = "添加";
+
+/* Class = "UILabel"; text = "电话："; ObjectID = "Deo-W9-6zZ"; */
+"Deo-W9-6zZ.text" = "电话：";
+
+/* Class = "UIButton"; normalTitle = "添加"; ObjectID = "EnN-SX-yTO"; */
+"EnN-SX-yTO.normalTitle" = "添加";
+
+/* Class = "UILabel"; text = "自动登录"; ObjectID = "HLm-yK-VTp"; */
+"HLm-yK-VTp.text" = "自动登录";
+
+/* Class = "UITextField"; placeholder = "请输入电话"; ObjectID = "JMa-kM-eg6"; */
+"JMa-kM-eg6.placeholder" = "请输入电话";
+
+/* Class = "UILabel"; text = "姓名："; ObjectID = "Nwr-0m-PqR"; */
+"Nwr-0m-PqR.text" = "姓名：";
+
+/* Class = "UINavigationItem"; title = "联系人列表"; ObjectID = "RiD-ql-s6R"; */
+"RiD-ql-s6R.title" = "联系人列表";
+
+/* Class = "UIBarButtonItem"; title = "注销"; ObjectID = "SWT-HS-vD3"; */
+"SWT-HS-vD3.title" = "注销";
+
+/* Class = "UIButton"; normalTitle = "登录"; ObjectID = "Txe-HI-huH"; */
+"Txe-HI-huH.normalTitle" = "登录";
+
+/* Class = "UITextField"; placeholder = "请输入密码"; ObjectID = "Uiq-uQ-I6P"; */
+"Uiq-uQ-I6P.placeholder" = "请输入密码";
+
+/* Class = "UILabel"; text = "密码："; ObjectID = "awB-Oq-mxI"; */
+"awB-Oq-mxI.text" = "密码：";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "eFx-39-Dhm"; */
+"eFx-39-Dhm.text" = "Title";
+
+/* Class = "UIBarButtonItem"; title = "返回"; ObjectID = "fjs-sw-9sq"; */
+"fjs-sw-9sq.title" = "返回";
+
+/* Class = "UINavigationItem"; title = "欢迎登录"; ObjectID = "jK8-32-acx"; */
+"jK8-32-acx.title" = "欢迎登录";
+
+/* Class = "UINavigationItem"; title = "查看联系人"; ObjectID = "pJn-aG-Wvx"; */
+"pJn-aG-Wvx.title" = "查看联系人";
+
+/* Class = "UINavigationItem"; title = "添加联系人"; ObjectID = "pLG-70-4zG"; */
+"pLG-70-4zG.title" = "添加联系人";
+
+/* Class = "UITextField"; placeholder = "请输入账号"; ObjectID = "uHV-FP-zAk"; */
+"uHV-FP-zAk.placeholder" = "请输入账号";
+
+/* Class = "UILabel"; text = "记住密码"; ObjectID = "vUO-xn-H9R"; */
+"vUO-xn-H9R.text" = "记住密码";
+
+/* Class = "UITextField"; placeholder = "请输入姓名"; ObjectID = "wse-GS-phQ"; */
+"wse-GS-phQ.placeholder" = "请输入姓名";
+
+/* Class = "UITextField"; placeholder = "请输入电话"; ObjectID = "xYK-tQ-UJK"; */
+"xYK-tQ-UJK.placeholder" = "请输入电话";
+
+/* Class = "UILabel"; text = "账号："; ObjectID = "yXZ-dg-sWZ"; */
+"yXZ-dg-sWZ.text" = "账号：";
