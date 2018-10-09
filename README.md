@@ -1,0 +1,2 @@
+# ZPPrivateAddressBook
+一个集在不同类之间顺传或者逆传数据、数据存储、自动型segue和手动型segue的区别、segue方法的运用、协议的创建等知识为一体的综合性练习Demo。
